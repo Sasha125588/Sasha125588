@@ -1,5 +1,5 @@
 <a href="https://github.com/Sasha125588">
-  <img src="https://i.pinimg.com/1200x/5e/f7/1f/5ef71f3e6e6d2fb6695bdbf422a62109.jpg" alt="Sasha125588" align="center" width="100%" height="350px"/>
+  <img src="https://i.pinimg.com/originals/44/ca/a3/44caa3a1f18ef057b7a3dabe994d1d56.gif" alt="Sasha125588" align="center" width="100%"/>
 </a>
 
 <h1 align="left">:wave: Hi, I'm Sasha!</h1>
