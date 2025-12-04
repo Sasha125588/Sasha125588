@@ -1,5 +1,5 @@
 <a href="https://github.com/Sasha125588">
-  <img src="https://i.pinimg.com/originals/44/ca/a3/44caa3a1f18ef057b7a3dabe994d1d56.gif" alt="Sasha125588" align="center" width="100%"/>
+  <video src="arthas.mp4" controls width="100%"></video>
 </a>
 
 <h1 align="left">:wave: Hi, I'm Sasha!</h1>
