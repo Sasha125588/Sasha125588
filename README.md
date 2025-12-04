@@ -1,8 +1,5 @@
 <a href="https://github.com/Sasha125588">
-  <video src="https://raw.githubusercontent.com/Sasha125588/Sasha125588/main/arthas.mp4" 
-         controls 
-         width="100%">
-  </video>
+  <img src="./arthas-720.gif" alt="Lich King Background" align="center" width="100%"/>
 </a>
 
 <h1 align="left">:wave: Hi, I'm Sasha!</h1>
