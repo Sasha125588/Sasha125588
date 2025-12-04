@@ -1,5 +1,5 @@
 <a href="https://github.com/Sasha125588">
-  <img src="./arthas-720.gif" alt="Lich King Background" align="center" width="100%"/>
+  <img src="./arthas-720-2.gif" alt="Lich King Background" align="center" width="100%"/>
 </a>
 
 <h1 align="left">:wave: Hi, I'm Sasha!</h1>
