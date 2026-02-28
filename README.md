@@ -1,6 +1,6 @@
-<a href="https://github.com/Sasha125588">
+<!-- <a href="https://github.com/Sasha125588">
   <img src="https://i.pinimg.com/1200x/2c/ea/0a/2cea0a6881dc3c59115ea1cfb5eb5395.jpg" alt="Geto Suguru" align="center" width="100%"/>
-</a>
+</a> -->
 
 <h1 align="left">:wave: Hi, I'm Sasha!</h1>
 
