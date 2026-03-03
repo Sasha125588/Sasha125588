@@ -2,6 +2,8 @@
   <img src="https://i.pinimg.com/1200x/2c/ea/0a/2cea0a6881dc3c59115ea1cfb5eb5395.jpg" alt="Geto Suguru" align="center" width="100%"/>
 </a> -->
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31qgzy4o4cazlx3xdqwbkey3jq6y&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
 <h1 align="left">:wave: Hi, I'm Sasha!</h1>
 
 <div>
