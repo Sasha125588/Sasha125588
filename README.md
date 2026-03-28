@@ -32,11 +32,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C#           25 mins               █████████████████▒░░░░░░░   69.99 %
-Vue.js       7 mins                █████▒░░░░░░░░░░░░░░░░░░░   21.73 %
-JSON         1 min                 █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
-TypeScript   1 min                 ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
-XML          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
