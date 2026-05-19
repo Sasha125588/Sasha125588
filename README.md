@@ -1,30 +1,8 @@
-<!-- <a href="https://github.com/Sasha125588">
-  <img src="https://i.pinimg.com/1200x/2c/ea/0a/2cea0a6881dc3c59115ea1cfb5eb5395.jpg" alt="Geto Suguru" align="center" width="100%"/>
-</a> -->
-
 <h1 align="left">:wave: Hi, I'm Sasha!</h1>
 
 <div>
 <a href="https://t.me/whoole_some"><img alt="Telegram" src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white"></a>
 </div>
-
-<br>
-
-**Frontend Developer** from Ukraine 🇺🇦 who loves turning designs into interactive reality
-
-- :office: &nbsp;Currently focused on building modern, accessible web applications
-- :fire: &nbsp;I develop with **[TypeScript](https://www.typescriptlang.org/)** and modern React patterns
-- :rocket: &nbsp;Mastering **Next.js** and performance optimization
-- :airplane: &nbsp;Let's connect on **[Telegram](https://t.me/whoole_some)**
-
-<br>
-
-## 🚀 What I'm currently up to
-
-- 🔥 Building responsive applications with **TypeScript**
-- 🎯 Mastering **Next.js** and modern React patterns  
-- 🎨 Creating beautiful UI components with **Tailwind CSS**
-- ⚡ Optimizing frontend performance and Core Web Vitals
 
 <br>
 
@@ -43,7 +21,7 @@ JavaScript   0 secs                ░░░░░░░░░░░░░░░
 
 <br>
 
-<h2 align="left" id="sasha-stack">🔥 Tech Stack</h2>
+<h2 align="left" id="sasha-stack">☄️ Tech Stack</h2>
 
 > Languages & Core Technologies
 
@@ -51,44 +29,32 @@ JavaScript   0 secs                ░░░░░░░░░░░░░░░
   <tr>
     <td align="center" width="110" height="90">
       <a href="#sasha-stack">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" width="36" height="36" alt="typescript" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript" />
       </a>
       <br>TypeScript
     </td>
     <td align="center" width="110" height="90">
       <a href="#sasha-stack">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="36" height="36" alt="javascript" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
     <td align="center" width="110" height="90">
       <a href="#sasha-stack">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="36" height="36" alt="Html5" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="36" height="36" alt="HTML5" />
       </a>
       <br>HTML5
     </td>
     <td align="center" width="110" height="90"> 
       <a href="#sasha-stack">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="36" height="36" alt="css3" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="36" height="36" alt="CSS3" />
       </a>
       <br>CSS3
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#sasha-stack">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" width="36" height="36" alt="git" />
-      </a>
-      <br>Git
-    </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#sasha-stack">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="36" height="36" alt="github" />
-      </a>
-      <br>GitHub
     </td>
   </tr> 
 </table>
 
-> Frontend Frameworks & Libraries
+> Frontend Ecosystem
 
 <table width='100%'>
   <tr>
@@ -100,9 +66,33 @@ JavaScript   0 secs                ░░░░░░░░░░░░░░░
     </td>
     <td align="center" width="110" height="90">
       <a href="#sasha-stack">
-        <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="36" height="36" alt="Next JS" />
+        <img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" width="36" height="36" alt="Vue" />
+      </a>
+      <br>Vue
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#sasha-stack">
+        <img src="https://devicons.io/devicons/icons/nextjs-icon.svg" width="36" height="36" alt="Next.js" />
       </a>
       <br>Next.js
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#sasha-stack">
+        <img src="https://nuxt.com/assets/design-kit/icon-green.svg" width="36" height="36" alt="Nuxt" />
+      </a>
+      <br>Nuxt
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#sasha-stack">
+        <img src="https://tanstack.com/favicon.ico" width="36" height="36" alt="TanStack" />
+      </a>
+      <br>TanStack
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#sasha-stack">
+        <img src="https://v3.reatom.dev/_astro/logo_light.Ds0ilmtD.svg" width="36" height="36" alt="Reatom" />
+      </a>
+      <br>Reatom
     </td>
     <td align="center" width="110" height="90">
       <a href="#sasha-stack">
@@ -125,7 +115,7 @@ JavaScript   0 secs                ░░░░░░░░░░░░░░░
   <tr>
     <td align="center" width="110" height="90">
       <a href="#sasha-stack">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="36" height="36" alt="Tailwind" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="36" height="36" alt="Tailwind CSS" />
       </a>
       <br>Tailwind CSS
     </td>
@@ -137,28 +127,101 @@ JavaScript   0 secs                ░░░░░░░░░░░░░░░
     </td>
     <td align="center" width="110" height="90">
       <a href="#sasha-stack">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" width="36" height="36" alt="figma" />
+        <img src="https://mantine.dev/favicon.svg" width="36" height="36" alt="Mantine" />
+      </a>
+      <br>Mantine
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#sasha-stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" width="36" height="36" alt="Figma" />
       </a>
       <br>Figma
     </td>
   </tr> 
 </table>
 
-> Code Quality & Testing
+> Backend Ecosystem
+
+<table width='100%'>
+  <tr>
+    <td align="center" width="110" height="90"> 
+      <a href="#sasha-stack">
+        <img src="https://brandeps.com/icon-download/N/Nestjs-icon-vector-01.svg" width="36" height="36" alt="NestJS" />
+      </a>
+      <br>NestJS
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#sasha-stack">
+        <img src="https://devicons.io/devicons/icons/dotnet.svg" width="36" height="36" alt=".NET" />
+      </a>
+      <br>.NET
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#sasha-stack">
+        <img src="https://elysiajs.com/assets/elysia.svg" width="36" height="36" alt="ElysiaJS" />
+      </a>
+      <br>ElysiaJS
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#sasha-stack">
+        <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" width="36" height="36" alt="Supabase" />
+      </a>
+      <br>Supabase
+    </td> 
+    <td align="center" width="110" height="90">  
+      <a href="#sasha-stack">
+        <img src="https://brandeps.com/icon-download/P/Prisma-icon-vector-01.svg" width="36" height="36" alt="Prisma" />
+      </a>
+      <br>Prisma
+    </td>
+    <td align="center" width="110" height="90">  
+      <a href="#sasha-stack">
+        <img src="https://avatars.githubusercontent.com/u/108468352?s=48&v=4" width="36" height="36" alt="Prisma" />
+      </a>
+      <br>Drizzle
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#sasha-stack">
+        <img src="https://heyapi.dev/_astro/dark.CZYeGtCJ.svg" width="36" height="36" alt="Hey API" />
+      </a>
+      <br>Hey API
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#sasha-stack">
+        <img src="https://avatars.githubusercontent.com/u/301879?s=200&v=4" width="36" height="36" alt="Scalar" />
+      </a>
+      <br>Scalar
+    </td>
+  </tr> 
+</table>
+
+> Code Quality
 
 <table width='100%'>
   <tr>
     <td align="center" width="110" height="90">
       <a href="#sasha-stack">
-        <img src="https://brandeps.com/icon-download/E/Eslint-icon-vector-02.svg" width="36" height="36" alt="eslint" />
+        <img src="https://brandeps.com/icon-download/E/Eslint-icon-vector-02.svg" width="36" height="36" alt="ESLint" />
       </a>
       <br>ESLint
     </td>
     <td align="center" width="110" height="90">
       <a href="#sasha-stack">
-        <img src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" width="36" height="36" alt="prettier" />
+        <img src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" width="36" height="36" alt="Prettier" />
       </a>
       <br>Prettier
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#sasha-stack">
+        <img src="https://camo.githubusercontent.com/ab2c0e28f7ec07102f8587810a51f598d6dad0ca17614b228aac2a90e1df416b/68747470733a2f2f6f78632e72732f6f78632d6c696768742e737667" width="36" height="36" alt="Oxlint" />
+      </a>
+      <br>Oxlint
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#sasha-stack">
+        <img src="https://avatars.githubusercontent.com/u/149946238?s=200&v=4" width="36" height="36" alt="Oxcfmt" />
+      </a>
+      <br>Oxcfmt
     </td>
   </tr> 
 </table>
@@ -168,11 +231,11 @@ JavaScript   0 secs                ░░░░░░░░░░░░░░░
 <table width='100%'>
   <tr>
     <td align="center" width="110" height="90"> 
-  <a href="#sasha-stack">
-    <img src="https://bun.sh/logo.svg" width="36" height="36" alt="bun" />
-  </a>
-  <br>Bun
-</td>
+      <a href="#sasha-stack">
+        <img src="https://bun.sh/logo.svg" width="36" height="36" alt="Bun" />
+      </a>
+      <br>Bun
+    </td>
     <td align="center" width="110" height="90"> 
       <a href="#sasha-stack">
         <img src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" width="36" height="36" alt="npm" />
@@ -181,21 +244,24 @@ JavaScript   0 secs                ░░░░░░░░░░░░░░░
     </td>
     <td align="center" width="110" height="90"> 
       <a href="#sasha-stack">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="36" height="36" alt="docker" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="36" height="36" alt="Docker" />
       </a>
       <br>Docker
     </td>
+    <td align="center" width="110" height="90">
+      <a href="#sasha-stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" width="36" height="36" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#sasha-stack">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="36" height="36" alt="GitHub" />
+      </a>
+      <br>GitHub
+    </td>
   </tr> 
 </table>
-
-<br>
-
-## 🌱 Currently Learning
-
-- 🧪 **Testing** with Vitest and React Testing Library  
-- ♿ **Web Accessibility** (WCAG guidelines)
-- 🚀 **Performance optimization** techniques
-- 🎯 **Advanced TypeScript patterns**
 
 <br>
 
