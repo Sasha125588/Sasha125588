@@ -100,12 +100,6 @@ JavaScript   0 secs                ░░░░░░░░░░░░░░░
       </a>
       <br>Vite
     </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#sasha-stack">
-        <img src="https://brandeps.com/icon-download/W/Webpack-icon-vector-02.svg" width="36" height="36" alt="Webpack" />
-      </a>
-      <br>Webpack
-    </td>
   </tr> 
 </table>
 
@@ -235,12 +229,6 @@ JavaScript   0 secs                ░░░░░░░░░░░░░░░
         <img src="https://bun.sh/logo.svg" width="36" height="36" alt="Bun" />
       </a>
       <br>Bun
-    </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#sasha-stack">
-        <img src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" width="36" height="36" alt="npm" />
-      </a>
-      <br>npm
     </td>
     <td align="center" width="110" height="90"> 
       <a href="#sasha-stack">
