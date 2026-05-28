@@ -10,8 +10,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   17 mins               █████████████████████████   99.83 %
-Vue          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Vue                       3 mins                ████████░░░░░░░░░░░░░░░░░   32.39 %
+TypeScript                3 mins                ███████▒░░░░░░░░░░░░░░░░░   29.20 %
+C#                        2 mins                ███████░░░░░░░░░░░░░░░░░░   28.04 %
+Project file properties   1 min                 ██▓░░░░░░░░░░░░░░░░░░░░░░   10.37 %
 ```
 
 <!--END_SECTION:waka-->
