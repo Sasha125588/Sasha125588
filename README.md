@@ -271,7 +271,7 @@ No activity tracked
 
 <div align="center">
  
-*"Code is like humor. When you have to explain it, it's bad." – Cory House* 💻✨
+*Хто я без нейронки? Тварюка тремтяча чи право маю?*
 
 </div>
 
