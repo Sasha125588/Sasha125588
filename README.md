@@ -273,12 +273,6 @@ JavaScript   21 mins               ▒░░░░░░░░░░░░░░
   <img src="https://komarev.com/ghpvc/?username=Sasha125588&color=blueviolet&style=flat-square" alt="Profile Views" />
 </div>
 
-<div align="center">
- 
-*Хто я без нейронки? Тварюка тремтяча чи право маю?*
-
-</div>
-
 ---
 
 <!--
