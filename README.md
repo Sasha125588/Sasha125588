@@ -1,7 +1,7 @@
 <h1 align="left">:wave: Hi, I'm Sasha!</h1>
 
 <div>
-<a href="https://t.me/whoole_some"><img alt="Telegram" src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white"></a>
+<a href="https://t.me/foIand"><img alt="Telegram" src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white"></a>
 </div>
 
 <br>
