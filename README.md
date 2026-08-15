@@ -29,15 +29,15 @@ Other        10 mins               ░░░░░░░░░░░░░░░
   <tr>
     <td align="center" width="110" height="90">
       <a href="#sasha-stack">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#sasha-stack">
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" />
       </a>
       <br>JavaScript
+    </td>
+        <td align="center" width="110" height="90">
+      <a href="#sasha-stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript" />
+      </a>
+      <br>TypeScript
     </td>
     <td align="center" width="110" height="90">
       <a href="#sasha-stack">
@@ -94,12 +94,12 @@ Other        10 mins               ░░░░░░░░░░░░░░░
       </a>
       <br>Reatom
     </td>
-    <td align="center" width="110" height="90">
+    <!-- <td align="center" width="110" height="90">
       <a href="#sasha-stack">
         <img src="https://vitejs.dev/logo.svg" width="36" height="36" alt="Vite" />
       </a>
       <br>Vite
-    </td>
+    </td> -->
   </tr> 
 </table>
 
@@ -125,12 +125,12 @@ Other        10 mins               ░░░░░░░░░░░░░░░
       </a>
       <br>Mantine
     </td>
-    <td align="center" width="110" height="90">
+    <!-- <td align="center" width="110" height="90">
       <a href="#sasha-stack">
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" width="36" height="36" alt="Figma" />
       </a>
       <br>Figma
-    </td>
+    </td> -->
   </tr> 
 </table>
 
@@ -144,48 +144,48 @@ Other        10 mins               ░░░░░░░░░░░░░░░
       </a>
       <br>NestJS
     </td>
-    <td align="center" width="110" height="90">
+    <!-- <td align="center" width="110" height="90">
       <a href="#sasha-stack">
         <img src="https://devicons.io/devicons/icons/dotnet.svg" width="36" height="36" alt=".NET" />
       </a>
       <br>.NET
-    </td>
+    </td> -->
     <td align="center" width="110" height="90">
       <a href="#sasha-stack">
         <img src="https://elysiajs.com/assets/elysia.svg" width="36" height="36" alt="ElysiaJS" />
       </a>
       <br>ElysiaJS
     </td>
-    <td align="center" width="110" height="90">
+    <!-- <td align="center" width="110" height="90">
       <a href="#sasha-stack">
         <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" width="36" height="36" alt="Supabase" />
       </a>
       <br>Supabase
-    </td> 
-    <td align="center" width="110" height="90">  
+    </td>  -->
+    <!-- <td align="center" width="110" height="90">  
       <a href="#sasha-stack">
         <img src="https://brandeps.com/icon-download/P/Prisma-icon-vector-01.svg" width="36" height="36" alt="Prisma" />
       </a>
       <br>Prisma
-    </td>
+    </td> -->
     <td align="center" width="110" height="90">  
       <a href="#sasha-stack">
         <img src="https://avatars.githubusercontent.com/u/108468352?s=48&v=4" width="36" height="36" alt="Prisma" />
       </a>
       <br>Drizzle
     </td>
-    <td align="center" width="110" height="90">
+    <!-- <td align="center" width="110" height="90">
       <a href="#sasha-stack">
         <img src="https://heyapi.dev/_astro/dark.CZYeGtCJ.svg" width="36" height="36" alt="Hey API" />
       </a>
       <br>Hey API
-    </td>
-    <td align="center" width="110" height="90">
+    </td> -->
+    <!-- <td align="center" width="110" height="90">
       <a href="#sasha-stack">
         <img src="https://avatars.githubusercontent.com/u/301879?s=200&v=4" width="36" height="36" alt="Scalar" />
       </a>
       <br>Scalar
-    </td>
+    </td> -->
   </tr> 
 </table>
 
@@ -193,7 +193,7 @@ Other        10 mins               ░░░░░░░░░░░░░░░
 
 <table width='100%'>
   <tr>
-    <td align="center" width="110" height="90">
+    <!-- <td align="center" width="110" height="90">
       <a href="#sasha-stack">
         <img src="https://brandeps.com/icon-download/E/Eslint-icon-vector-02.svg" width="36" height="36" alt="ESLint" />
       </a>
@@ -204,7 +204,7 @@ Other        10 mins               ░░░░░░░░░░░░░░░
         <img src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" width="36" height="36" alt="Prettier" />
       </a>
       <br>Prettier
-    </td>
+    </td> -->
     <td align="center" width="110" height="90">
       <a href="#sasha-stack">
         <img src="https://camo.githubusercontent.com/ab2c0e28f7ec07102f8587810a51f598d6dad0ca17614b228aac2a90e1df416b/68747470733a2f2f6f78632e72732f6f78632d6c696768742e737667" width="36" height="36" alt="Oxlint" />
@@ -230,7 +230,7 @@ Other        10 mins               ░░░░░░░░░░░░░░░
       </a>
       <br>Bun
     </td>
-    <td align="center" width="110" height="90"> 
+    <!-- <td align="center" width="110" height="90"> 
       <a href="#sasha-stack">
         <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="36" height="36" alt="Docker" />
       </a>
@@ -241,13 +241,13 @@ Other        10 mins               ░░░░░░░░░░░░░░░
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" width="36" height="36" alt="Git" />
       </a>
       <br>Git
-    </td>
-    <td align="center" width="110" height="90"> 
+    </td> -->
+    <!-- <td align="center" width="110" height="90"> 
       <a href="#sasha-stack">
         <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="36" height="36" alt="GitHub" />
       </a>
       <br>GitHub
-    </td>
+    </td> -->
   </tr> 
 </table>
 
