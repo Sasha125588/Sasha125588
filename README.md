@@ -65,8 +65,8 @@ Other        10 mins               ░░░░░░░░░░░░░░░
       <br>React
     </td>
     <td align="center" width="110" height="90">
-      <a href="#sasha-stack">
-        <img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" width="36" height="36" alt="Vue" />
+      <a href="#sasha-stack"> 
+        <img src="https://icon.icepanel.io/Technology/svg/Vue.js.svg" width="36" height="36" alt="Vue" />
       </a>
       <br>Vue
     </td>
