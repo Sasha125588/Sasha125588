@@ -10,7 +10,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java         1 hr 15 mins          ███████████████████▓░░░░░   78.69 %
+JavaScript   20 mins               █████▒░░░░░░░░░░░░░░░░░░░   21.31 %
 ```
 
 <!--END_SECTION:waka-->
